@@ -1,13 +1,1 @@
-# Python cache
-__pycache__/
-*.pyc
-
-# App data (do not commit)
-users.txt
-failed_attempts.txt
-sessions.txt
-
-# Virtual environments
-.env/
-.venv/
-venv/
+"__pycache__/\n*.pyc\nfailed_attempts.txt\nsessions.txt\n.env/\n.venv/\nvenv/" 
