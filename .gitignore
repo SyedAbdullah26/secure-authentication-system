@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# App data (do not commit)
+users.txt
+failed_attempts.txt
+sessions.txt
+
+# Virtual environments
+.env/
+.venv/
+venv/
